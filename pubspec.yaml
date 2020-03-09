@@ -1,0 +1,14 @@
+name: hivedb_dark_mode_switch
+description: A new Flutter project.
+
+environment:
+  sdk: ">=2.6.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  hive: ^1.4.1+1
+  hive_flutter: ^0.3.0+2
+
+flutter:
+  uses-material-design: true
